@@ -1,0 +1,72 @@
+body{
+    background:  #fefae0;
+    font-family: 'Andada';
+}
+header{
+    background: #606c38 ;
+    width:84.2%;
+    height:70px;
+    margin-left: 5%;
+    margin-top: 2%;
+    padding-top: 10px;
+    padding-left: 10px ;
+    
+}
+
+.personal-data{
+    float: left;
+    background:  #606c38;
+    width:calc(20% - 10px);
+    height: 470px;
+    padding-left: 10px;
+    margin-left: 5%;
+    
+}
+
+.academic-information{
+    float: left;
+    background: #dda15e;
+    width:calc(65% - 10px);
+    height: 465%;
+    padding-left: 10px;
+    
+}
+
+.working-experience{
+    float: left;
+    background: #e47514;
+    width:calc(65% - 10px);
+    height: 465%;
+    padding-left: 10px;
+    
+    
+}
+.interests{
+    float: left;
+    background: #cc6104;;
+    width:calc(65% - 10px);
+    height: 465%;
+    padding-left: 10px;
+    
+    
+}
+
+.schedules{
+    float: left;
+    background: #c03d00;
+    width:calc(65% - 10px);
+    height: 465%;
+    padding-left: 10px;
+    
+}
+
+footer{
+    float: left;
+    color: #fefae0;
+    background: #283618 ;
+    width:calc(65% - 10px);
+    height: 31px;
+    padding-left: 10px;
+    padding-top: 5px;
+
+}
